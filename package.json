@@ -18,13 +18,14 @@
     "bcryptjs": "^2.4.3",
     "config": "^3.3.0",
     "express": "^4.17.1",
-    "express-validator": "^6.4.0",
+    "express-validator": "^6.6.1",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.9.5",
+    "mongoose": "^5.9.29",
+    "react-responsive": "^8.1.0",
     "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
-    "concurrently": "^5.2.0",
+    "concurrently": "^5.3.0",
     "nodemon": "^2.0.4"
   }
 }
